@@ -1,0 +1,8 @@
+{
+    "name": "Zelda",
+    "cat": "Super Nintendo",
+    "price": "199.99",
+    "desc": "RPG é que nóis que páaa....",
+    "producers": ["Nintendo"],
+    "image": "zelda.jpg"
+}
